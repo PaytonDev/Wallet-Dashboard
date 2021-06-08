@@ -7,7 +7,9 @@ const Profile = ({name, jobTitle}) => {
     <div className="Profile">
         <img src={logo} alt="" className="Profile-img"/>
         <p>{name}</p>
-        <small>{jobTitle}</small>
+        <small>{jobTitle}</small><br />
+        <small>Sidebar links are inactive.</small><br />
+        <small>Future Updates will be adding more pages.</small>
     </div>
     )
 }
