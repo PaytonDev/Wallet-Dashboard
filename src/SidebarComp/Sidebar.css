@@ -1,0 +1,11 @@
+.Sidebar {
+    background-color: #0C0B10;
+    color: #F6D056;
+    height: 100vh;
+    text-decoration: none;
+}
+
+.Sidebar h3 {
+    margin-top: 1.5rem;
+    font-weight: 600;
+}

@@ -1,0 +1,16 @@
+.RecentActivity {
+    margin-top: 3em;
+}
+
+.RecentActivity-header p {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+.RecentActivity table {
+    color: #F6D056;
+    border-spacing: 2em 10px;
+    border-collapse: separate;
+    font-size: .8em;
+}
+

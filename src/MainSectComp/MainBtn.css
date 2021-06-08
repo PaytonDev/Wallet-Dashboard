@@ -1,0 +1,24 @@
+.MainBtn {
+    float: right;
+    margin: 10px 15px;
+    background: #313036;
+    border-radius: 50%;
+    border: none;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+svg {
+    display:inline-block;
+    vertical-align: middle;
+    min-height: 20px;
+    min-width: 20px;
+}
+
+.MainBtn a {
+    display: block;
+    text-decoration: none;
+    color: #F6D056;
+}

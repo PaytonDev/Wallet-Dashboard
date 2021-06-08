@@ -1,0 +1,66 @@
+.SellOrders {
+    height: 100%;
+    color: #F6D056;
+}
+
+.SellOrders-header {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.SellOrders-header p {
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.SellOrders-header-row {
+    align-items: center;
+}
+
+.SellOrders-menu {
+    margin-left: auto;
+}
+
+.SellOrders-table {
+    color: #F6D056;
+    text-align: center;
+    border-spacing: 2em 2rem;
+    border-collapse: separate;
+
+}
+
+
+.SellOrders-table-row {
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+}
+
+.SellOrders-col {
+    background-color: #1B1A1F;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072)
+  ;
+}
+
+@media only screen and (max-width: 1300px){
+    .SellOrders-table {
+        border-spacing: 1em 1rem;
+        border-collapse: separate;
+    }
+}
+
+@media only screen and (max-width: 1110px){
+    .SellOrders-table {
+        border-spacing: .5em .5rem;
+        border-collapse: separate;
+    }
+}
+

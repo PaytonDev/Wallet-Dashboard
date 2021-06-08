@@ -1,0 +1,21 @@
+.SidebarLink {
+    margin-top: 2rem;
+    font-size: 1rem;
+}
+
+.SidebarLink:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.SidebarLink-icon {
+    margin-right: 2.5rem;
+    font-size: 2rem;
+}
+
+
+@media only screen and (max-width: 1300px){
+    .SidebarLink-icon {
+        display: none;
+    }
+}
