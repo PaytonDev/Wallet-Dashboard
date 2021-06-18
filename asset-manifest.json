@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Wallet-Dashboard/static/css/main.5b12d43a.chunk.css",
-    "main.js": "/Wallet-Dashboard/static/js/main.a3508922.chunk.js",
-    "main.js.map": "/Wallet-Dashboard/static/js/main.a3508922.chunk.js.map",
-    "runtime-main.js": "/Wallet-Dashboard/static/js/runtime-main.6b9f6ae9.js",
-    "runtime-main.js.map": "/Wallet-Dashboard/static/js/runtime-main.6b9f6ae9.js.map",
+    "main.css": "/Wallet-Dashboard/static/css/main.a3754762.chunk.css",
+    "main.js": "/Wallet-Dashboard/static/js/main.61f832a7.chunk.js",
+    "main.js.map": "/Wallet-Dashboard/static/js/main.61f832a7.chunk.js.map",
+    "runtime-main.js": "/Wallet-Dashboard/static/js/runtime-main.08f23141.js",
+    "runtime-main.js.map": "/Wallet-Dashboard/static/js/runtime-main.08f23141.js.map",
     "static/css/2.15a7a700.chunk.css": "/Wallet-Dashboard/static/css/2.15a7a700.chunk.css",
-    "static/js/2.d8a22920.chunk.js": "/Wallet-Dashboard/static/js/2.d8a22920.chunk.js",
-    "static/js/2.d8a22920.chunk.js.map": "/Wallet-Dashboard/static/js/2.d8a22920.chunk.js.map",
-    "static/js/3.a1c67457.chunk.js": "/Wallet-Dashboard/static/js/3.a1c67457.chunk.js",
-    "static/js/3.a1c67457.chunk.js.map": "/Wallet-Dashboard/static/js/3.a1c67457.chunk.js.map",
+    "static/js/2.fac44a4b.chunk.js": "/Wallet-Dashboard/static/js/2.fac44a4b.chunk.js",
+    "static/js/2.fac44a4b.chunk.js.map": "/Wallet-Dashboard/static/js/2.fac44a4b.chunk.js.map",
+    "static/js/3.88b98083.chunk.js": "/Wallet-Dashboard/static/js/3.88b98083.chunk.js",
+    "static/js/3.88b98083.chunk.js.map": "/Wallet-Dashboard/static/js/3.88b98083.chunk.js.map",
     "index.html": "/Wallet-Dashboard/index.html",
     "static/css/2.15a7a700.chunk.css.map": "/Wallet-Dashboard/static/css/2.15a7a700.chunk.css.map",
-    "static/css/main.5b12d43a.chunk.css.map": "/Wallet-Dashboard/static/css/main.5b12d43a.chunk.css.map",
-    "static/js/2.d8a22920.chunk.js.LICENSE.txt": "/Wallet-Dashboard/static/js/2.d8a22920.chunk.js.LICENSE.txt",
+    "static/css/main.a3754762.chunk.css.map": "/Wallet-Dashboard/static/css/main.a3754762.chunk.css.map",
+    "static/js/2.fac44a4b.chunk.js.LICENSE.txt": "/Wallet-Dashboard/static/js/2.fac44a4b.chunk.js.LICENSE.txt",
     "static/media/Batman.2690d955.png": "/Wallet-Dashboard/static/media/Batman.2690d955.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b9f6ae9.js",
+    "static/js/runtime-main.08f23141.js",
     "static/css/2.15a7a700.chunk.css",
-    "static/js/2.d8a22920.chunk.js",
-    "static/css/main.5b12d43a.chunk.css",
-    "static/js/main.a3508922.chunk.js"
+    "static/js/2.fac44a4b.chunk.js",
+    "static/css/main.a3754762.chunk.css",
+    "static/js/main.61f832a7.chunk.js"
   ]
 }
