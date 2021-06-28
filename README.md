@@ -1,6 +1,6 @@
 # Wallet Dashboard
 
-A Batman-themed finance dashboard project made with create-react-app to display understanding of component design and react libraries, reactstrap and chart.js.
+A finance dashboard project made with create-react-app to display understanding of component design and react libraries, reactstrap and chart.js.
 
 ## Features
 
